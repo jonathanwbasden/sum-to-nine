@@ -1,1 +1,1 @@
-"# sum-to-nine" 
+ReactJS application game. User must choose numbers that sum up to the stars presented.
